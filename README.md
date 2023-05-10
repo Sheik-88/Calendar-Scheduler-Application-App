@@ -1,4 +1,4 @@
-# Calendar-Scheduler-Frontend-program
+# Calendar-Scheduler-Application
 Creating a calendar scheduler using HTML, CSS, and JS is a great way to organize your schedule and keep track of important dates. Here's a brief readme to help you get started:
 
 1.Set up your HTML file:
